@@ -1,0 +1,7 @@
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\WTorres Gonzalez\Documents\prueba\07\Herencia\Herencia\obj\Debug\Herencia.pdb
